@@ -614,8 +614,9 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 广东｜汕头经济生活,http://www.namewee.xyz/gudou.php?id=shantouertaogaoqing_4500
 广东｜汕头文旅体育,http://www.namewee.xyz/gudou.php?id=2508_4500
 广东｜揭阳综合,http://www.namewee.xyz/gudou.php?id=jieyangzongheHD
-广东｜揭阳综合1,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=jieyangyitao_1500
-广东｜揭阳生活,http://www.namewee.xyz/gudou.php?id=jieyanggonggongHD
+广东｜揭阳综合1,http://113.117.74.28:8081/hls/21/index.m3u8
+广东｜揭阳综合2,http://xiaozeng.aweitv.top/tv/gdtv.php?id=jieyangyitao_1500
+广东｜揭阳综合3,http://60.208.16.27:1505/gudou.php?id=364&id=jieyangyitao_1500  
 广东｜揭东综合,http://www.namewee.xyz/gudou.php?id=jiedongzonghe
 广东｜中山综合,http://www.namewee.xyz/gudou.php?id=3665
 广东｜中山香山文化,http://www.namewee.xyz/gudou.php?id=3663
